@@ -1,0 +1,11 @@
+# I like Beards
+
+
+## How to grow a beard
+
+1. don't shave
+2. have manly facial hair
+
+    $signal->grow_beard($dev);
+
+## done.
