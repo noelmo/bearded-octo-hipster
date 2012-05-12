@@ -1,5 +1,7 @@
 # I like Beards
 
+# Do you like tight pants?
+
 
 ## How to grow a beard
 
@@ -11,4 +13,4 @@
 
 ## done.
 
-### 
+### new issue
